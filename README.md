@@ -1,1 +1,2 @@
-# MAP-Lab2
+# REAL ESTATE AGENCY 
+This app is designed in order to digitize and streamline the processes of a real estate agency. It provides a centralized platform for managing properties, clients, employees and the entire lifecycle of a real estate transaction. Customers can enquire about the availability of a property and get in contact with one of the employees over the facilities that the listed properties possess. This Java-based app focuses strictly on facilitating the sale of a property and also providing a better experience for both agents and customers, this being some of our main objectives.
