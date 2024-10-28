@@ -19,6 +19,6 @@ n:m Relationships: A client can view multiple properties, a property can be view
 
 1:n Relationships: An agent can have multiple properties assigned.
 
-![RealEstate drawio (1)](https://github.com/user-attachments/assets/3d4fed29-058d-4d25-95f5-76f60eeee3e3)
+![RealEstate drawio (2)](https://github.com/user-attachments/assets/bbad9449-8cc8-43b3-9a29-4457edd75d2e)
 
 
