@@ -4,12 +4,21 @@ This app is designed in order to digitize and streamline the processes of a real
 ### MAIN FEATURES AND RELATIONSHIPS
 
 Property catalog: Add, edit, delete properties (apartments, houses, land, etc.), with full details (price, area, number of rooms, photos, location, features);
+
 Customer management: Creating customer profiles (prospect buyers, sellers, renters), storing interaction history and preferences;
+
 Employee Management: Create profiles for real estate agents, assign properties, track performance;
+
 Advanced Search: Allows customers to search for properties based on multiple criteria (price, location, number of rooms, etc.);
+
 Inheritance: For example, an abstract class "Person" can be inherited by classes "Customer" and "Agent".
+
 Composition: A property is composed of features, a customer has preferences.
+
 n:m Relationships: A client can view multiple properties, a property can be viewed by many clients.
+
 1:n Relationships: An agent can have multiple properties assigned.
+
+![RealEstate drawio (1)](https://github.com/user-attachments/assets/3d4fed29-058d-4d25-95f5-76f60eeee3e3)
 
 
