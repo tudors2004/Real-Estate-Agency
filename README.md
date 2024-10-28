@@ -11,3 +11,5 @@ Inheritance: For example, an abstract class "Person" can be inherited by classes
 Composition: A property is composed of features, a customer has preferences.
 n:m Relationships: A client can view multiple properties, a property can be viewed by many clients.
 1:n Relationships: An agent can have multiple properties assigned.
+
+![RealEstate drawio](https://github.com/user-attachments/assets/3dcf674e-af54-4c48-8a8e-76e6296b3ca8)
